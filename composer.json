@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.3",
         "akamai-open/edgegrid-auth": "^1.0.0",
-        "guzzlehttp/guzzle": "^7.0.1",
+        "guzzlehttp/guzzle": "*",
         "psr/log": "^1.0",
         "monolog/monolog": "^1.15",
         "league/climate": "~3.2"
