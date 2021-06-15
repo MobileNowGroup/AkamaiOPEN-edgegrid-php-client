@@ -16,7 +16,7 @@
         "akamai-open/edgegrid-auth": "^1.0.0",
         "guzzlehttp/guzzle": "*",
         "psr/log": "^1.0",
-        "monolog/monolog": "^1.15",
+        "monolog/monolog": "*",
         "league/climate": "~3.2"
     },
     "require-dev": {
